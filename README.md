@@ -1,8 +1,5 @@
 Goal: Create an input component that allows a user to upload an image, crop any part of it to dimensions determined by the user, emulate saving the cropped image to an API, and then preview the “saved” image and print it.
 
-Expected Time: 2 - 3 coding hours. Feel free to check with us if you aren’t clear on anything. If we don’t respond immediately, this need not count towards your coding hours. 
-If it takes longer just submit the work you’ve done in that time frame, give us a summary of what could not be done, and a rough outline of how you plan to complete it.
-
 Requirements:
 Please use standard Javascript/ES6 and the React framework for your solution.
 The total size of your repo / zip file must be <= 50KB
